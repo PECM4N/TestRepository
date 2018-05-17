@@ -6,6 +6,8 @@
 
 int main()
 {
+	int x = 1;
+	//literally dies
     return 0;
 }
 
